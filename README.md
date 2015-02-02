@@ -2,7 +2,7 @@
 
 [Heroku link][heroku]
 
-[heroku]: http://flux-capacitr.herokuapp.com
+[heroku]: https://dashboard.heroku.com/apps/koachapp/resources
 
 ## Minimum Viable Product
 Koach is a program for physical therapists to have live video calls with patients.
