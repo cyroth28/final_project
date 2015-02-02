@@ -1,4 +1,4 @@
-# Flux-capacitr
+# Koach App
 
 [Heroku link][heroku]
 
